@@ -1,6 +1,6 @@
 # ArgonMetropolisSim
 
-ArgonMetropolisSim is a Python-based tool I developed to practice Monte Carlo simulations as part of my coursework in molecular dynamics simulation. It models the behavior of Argon atoms within a Lennard-Jones potential field using the Metropolis algorithm. This humble project was a significant part of my learning journey, and I hope it can be of use or interest to others studying molecular dynamics simulation or Monte Carlo simulation.
+ArgonMetropolisSim is a Python-based tool I developed to practice Monte Carlo simulations as part of my coursework in molecular dynamics simulation. It models the behavior of Argon atoms within a Lennard-Jones potential field using the Metropolis algorithm. This humble project was a significant part of my learning journey, and I hope it can be of use or interest to others studying Monte Carlo and Molecular Dynamics Simulations.
 
 ## Features
 
@@ -51,4 +51,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-I am grateful for the opportunity to engage in this class learning journey. My sincere appreciation goes to my instructors for their invaluable guidance and to my classmates for the collaborative learning environment we created together. This exercise has been a crucial step in enhancing my understanding of Molecular Dynamics and Monte Carlo Simulations.
+I am grateful for the opportunity to engage in this class learning journey. My sincere appreciation goes to my instructors for their invaluable guidance and to my classmates for the collaborative learning environment we created together. This exercise has been a crucial step in enhancing my understanding of Monte Carlo and Molecular Dynamics Simulations.
